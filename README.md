@@ -3,7 +3,6 @@ I am a frontend engineer from Istanbul
 - 🔭 Working on multiple frontend project using Vue and React
 - 🌱 Learning JavaScript in depth
 <br>
-<br>
 
 ## Connect with me
 
