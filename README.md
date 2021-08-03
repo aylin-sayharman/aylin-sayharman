@@ -13,10 +13,16 @@ I am a frontend engineer from Istanbul
 <br>
 ## Expertise
 
+<img width="50px" height="50px" align="left" alt="html5" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<div background="red" height="28px" width="111px">
-  <img width="20px" height="20px" align="left" alt="vue" src="https://vuejs.org/images/logo.svg"/>
-  VUE
-</div>
-<br>
+<img width="50px" height="50px" align="left" alt="css3" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" />
+
+<img width="50px" height="50px" align="left" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+
+<img width="50px" height="50px" align="left" alt="vue" src="https://vuejs.org/images/logo.svg" />
+
+<img width="50px" height="50px" align="left" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />
+
+<img width="50px" height="50px" align="left" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+
+
