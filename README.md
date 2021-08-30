@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a frontend engineer from Istanbul
-- 🔭 Working on multiple frontend project using Vue and React
-- 🌱 Learning JavaScript in depth
+  - 🔭 Working on multiple frontend project using Vue and React
+  - 🌱 Learning JavaScript in depth
 <br>
 
 ## Connect with me
