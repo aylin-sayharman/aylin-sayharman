@@ -21,7 +21,7 @@ I am a frontend engineer from Istanbul
 
 <img width="50px" height="50px" align="left" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 
-<img width="50px" height="50px" align="left" alt="vue" src="https://vuejs.org/images/logo.svg" />
+<img width="50px" height="50px" align="left" alt="vue" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 
 <img width="50px" height="50px" align="left" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />
 
